@@ -1,0 +1,7 @@
+.metadata
+RemoteSystemsTempFiles
+Servers
+*.classpath
+*.project
+*.settings
+*/target/
